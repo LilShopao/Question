@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML CSS JS</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1 id="">Big question</h1>
+<p>Would you, Abril Samara Anavisca go to Homecoming with Isaac Jace Munda Cheock 🥺🌹?</p>
+  
+  <a class="button", href=""> Yes</a>
+  <a class="button no", href=""> no</a>
+
+</body>
+</html>
