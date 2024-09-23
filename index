@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML CSS JS</title>
+</head>
+<body>
+<h1 id="">Random webquest</h1>
+<p>This person has a question to ask you</p>
+  
+  <a class="button", href=""> proceed</a>
+
+</body>
+</html>
