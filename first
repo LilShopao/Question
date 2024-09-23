@@ -1,4 +1,6 @@
 /* CSS styles */
+body {background-color: yellow;}
+
 h1 {
 font-family: Impact, sans-serif;
 color: #CE5937;
